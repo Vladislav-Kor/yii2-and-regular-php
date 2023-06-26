@@ -11,4 +11,5 @@
   https://github.com/Vladislav-Kor/sitemap
 # 4 Уменьшение картики без потери качества
   https://github.com/Vladislav-Kor/yii2-thumbs
+  
   *в проекте сохраняется оригинал картинки, но в браузере отображается по заданным пораметрам
